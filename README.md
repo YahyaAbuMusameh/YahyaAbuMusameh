@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="images/eagle_image.jpeg" width="100%" height="300" >
 
-<!--
-**YahyaAbuMusameh/YahyaAbuMusameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I hope you’re doing well <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 👨🏻‍💻</h1>
 
-Here are some ideas to get you started:
+<h1 align="center">I'm a computer engineer who is passionate about iOS developer</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+## * 📱 QR Code Scanner
+QR Code Scanner is a Scanner app made in UIKit.
+
+<img src="images/QR01.png" width="195" height="350"> <img src="images/QR02.png" width="195" height="350"> <img src="images/QR03.png" width="195" height="350"> <img src="images/QR04.png" width="195" height="350"> <img src="images/QR05.png" width="195" height="350">
+<img src="images/QR06.png" width="195" height="350"> <img src="images/QR07.png" width="195" height="350"> <img src="images/QR08.png" width="195" height="350"> <img src="images/QR09.png" width="195" height="350"> <img src="images/QR10.png" width="195" height="350">
+<img src="images/QR11.png" width="195" height="350"> <img src="images/QR12.png" width="195" height="350"> <img src="images/QR13.png" width="195" height="350"> <img src="images/QR14.png" width="195" height="350"> <img src="images/QR15.png" width="195" height="350">
+
+### Technologies Used
+- Firebase Cloud Messaging(FCM) 
+- Firebase Authentication
+- Firestore Database
+- Core Data
+- User Defaults
+- custom camera
+- Localization(Arabic/English)
+- Regex
+- Combine
+
+## * 📱 Learning Apps
+These apps for gaining knowledge about a specific subject or topic.
+
+<img src="images/Food.gif" width="195" height="350" > <img src="images/DropBox.gif" width="195" height="350" > <img src="images/Bank.gif" width="195" height="350" > <img src="images/Shop.gif" width="195" height="350" > 
