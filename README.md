@@ -5,6 +5,18 @@
 <h1 align="center">I'm a computer engineer who is passionate about iOS developer</h1>
 
 ## Examples of Work
+## * 📱 Movies Time
+Movies Time is a Movie app made in UIKit.
+
+<img src="images/Movie01.gif" width="195" height="350"> <img src="images/Movie02.png" width="195" height="350"> <img src="images/Movie03.png" width="195" height="350"> <img src="images/Movie04.png" width="195" height="350"> <img src="images/Movie05.png" width="195" height="350"> <img src="images/Movie06.png" width="195" height="350"> <img src="images/Movie07.png" width="195" height="350"> <img src="images/Movie08.png" width="195" height="350">
+
+### Technologies Used
+- Async/Await URL requests
+- Core Data
+- APIs
+- Notification Center
+- Third-party libraries
+
 ## * 📱 QR Code Scanner
 QR Code Scanner is a Scanner app made in UIKit.
 
