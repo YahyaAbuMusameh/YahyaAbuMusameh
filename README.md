@@ -8,7 +8,7 @@
 ## * 📱 Movies Time
 Movies Time is a Movie app made in UIKit.
 
-<img src="images/Movie01.gif" width="195" height="350"> <img src="images/Movie02.png" width="195" height="350"> <img src="images/Movie03.png" width="195" height="350"> <img src="images/Movie04.png" width="195" height="350"> <img src="images/Movie05.png" width="195" height="350"> <img src="images/Movie06.png" width="195" height="350"> <img src="images/Movie07.png" width="195" height="350"> <img src="images/Movie08.png" width="195" height="350">
+<img src="images/Movie01.gif" width="195" height="350"> <img src="images/Movie02.png" width="195" height="350"> <img src="images/Movie03.png" width="195" height="350"> <img src="images/Movie09.png" width="195" height="350"> <img src="images/Movie04.png" width="195" height="350"> <img src="images/Movie05.png" width="195" height="350"> <img src="images/Movie06.png" width="195" height="350"> <img src="images/Movie07.png" width="195" height="350"> <img src="images/Movie08.png" width="195" height="350">
 
 ### Technologies Used
 - Async/Await URLSession requests
