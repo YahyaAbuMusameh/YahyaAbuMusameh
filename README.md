@@ -20,9 +20,7 @@ Movies Time is a Movie app made in UIKit.
 ## * 📱 QR Code Scanner
 QR Code Scanner is a Scanner app made in UIKit.
 
-<img src="images/QR01.png" width="195" height="350"> <img src="images/QR02.png" width="195" height="350"> <img src="images/QR03.png" width="195" height="350"> <img src="images/QR04.png" width="195" height="350"> <img src="images/QR05.png" width="195" height="350">
-<img src="images/QR06.png" width="195" height="350"> <img src="images/QR07.png" width="195" height="350"> <img src="images/QR08.png" width="195" height="350"> <img src="images/QR09.png" width="195" height="350"> <img src="images/QR10.png" width="195" height="350">
-<img src="images/QR11.png" width="195" height="350"> <img src="images/QR12.png" width="195" height="350"> <img src="images/QR13.png" width="195" height="350"> <img src="images/QR14.png" width="195" height="350"> <img src="images/QR15.png" width="195" height="350">
+<img src="images/QR01.png" width="195" height="350"> <img src="images/QR02.png" width="195" height="350"> <img src="images/QR03.png" width="195" height="350"> <img src="images/QR05.png" width="195" height="350"> <img src="images/QR06.png" width="195" height="350"> <img src="images/QR07.png" width="195" height="350"> <img src="images/QR08.png" width="195" height="350"> <img src="images/QR09.png" width="195" height="350"> <img src="images/QR10.png" width="195" height="350"> <img src="images/QR11.png" width="195" height="350"> <img src="images/QR12.png" width="195" height="350"> <img src="images/QR13.png" width="195" height="350"> <img src="images/QR14.png" width="195" height="350"> <img src="images/QR15.png" width="195" height="350">
 
 ### Technologies Used
 - Firebase Cloud Messaging(FCM) 
