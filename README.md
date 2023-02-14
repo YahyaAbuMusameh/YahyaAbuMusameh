@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm a computer engineer who is passionate about iOS developer</h1>
 
-## Examples of Work
+## Personal Projects
 ## * 📱 Movies Time
 Movies Time is a Movie app made in UIKit.
 
