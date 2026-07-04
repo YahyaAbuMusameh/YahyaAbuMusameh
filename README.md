@@ -33,7 +33,7 @@ QR Code Scanner is a Scanner app made in UIKit.
 - Regex
 - Combine
 
-## * 📱 Educational Apps
-These apps for gaining knowledge about a specific subject or topic.
+## * 📱 Internship Experience
+Tasks completed to gain knowledge about a specific subject or topic.
 
 <img src="images/Food.gif" width="195" height="350" > <img src="images/DropBox.gif" width="195" height="350" > <img src="images/Bank.gif" width="195" height="350" > <img src="images/Shop.gif" width="195" height="350" > 
